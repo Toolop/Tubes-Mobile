@@ -65,6 +65,10 @@ Adapun API yang digunakan dalam aplikasi ini adalah pada link berikut <br> https
   https://github.com/Toolop/Tubes-Mobile
   </ul>
 
+## Hasil Aplikasi
+---
+Link mendownload APK : https://drive.google.com/file/d/1dcLKBraIbP86IRgtM2KCuNFGPTQNsk8B/view?usp=sharing
+
 ## Sumber
 ---
 1. API : https://github.com/tomorisakura/unofficial-masakapahariini-api/blob/main/README.md 
