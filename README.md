@@ -4,13 +4,6 @@
 **Nama Aplikasi : ResepKu** <br>
 **Anggota          :**<li>Rafi Arya Nugraha (119140060)</li><li> Istighfariza Aprini (119140059)</li><li> M. Riski Aziz (119140160)</li><li> Arvenda Budi Anggara (119140089)</li>
 
-## Tampilan
-<!-- GIF -->
-<div align="center">
-  <img widht="300px" height="500px" src="doc/assets/vgif.gif"/>
-</div>
-<br>
-<br>
 
 ## Instalasi Aplikasi
 ---
@@ -37,9 +30,9 @@
 ---
   
 <div align="center">
-  <img widht="150px" height="250px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011700/lm21ql00jud3yjtkq2qf.jpg"/>
-  <img widht="150px" height="250px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011730/the5wietuaqwiuqoxsua.jpg"/>
-  <img widht="150px" height="250px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011752/ckfcoxkka8162wzlzkcu.jpg"/>
+  <img widht="250px" height="350px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011700/lm21ql00jud3yjtkq2qf.jpg"/>
+  <img widht="250px" height="350px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011730/the5wietuaqwiuqoxsua.jpg"/>
+  <img widht="250px" height="350px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011752/ckfcoxkka8162wzlzkcu.jpg"/>
 </div>
 
 ## Deskripsi Aplikasi
