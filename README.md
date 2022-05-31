@@ -37,8 +37,9 @@
 ---
   
 <div align="center">
-  <img widht="150px" height="250px" src="doc/assets/home.png"/>
-  <img widht="150px" height="250px" src="doc/assets/detail.png"/>
+  <img widht="150px" height="250px" src="https://drive.google.com/file/d/13zdJv1jtabLdRoOUeff2GwuwTFayldxs/view?usp=sharing"/>
+  <img widht="150px" height="250px" src="https://drive.google.com/file/d/13R1T4yAtBIkbBndJQfowEdBWlrEMn1VO/view?usp=sharing"/>
+  <img widht="150px" height="250px" src="https://drive.google.com/file/d/14b7bGoYgQruizYusC6TLxCzoFNmq2tY6/view?usp=sharing"/>
 </div>
 
 ## Deskripsi Aplikasi
