@@ -37,9 +37,9 @@
 ---
   
 <div align="center">
-  <img widht="150px" height="250px" src="https://drive.google.com/file/d/13zdJv1jtabLdRoOUeff2GwuwTFayldxs/view?usp=sharing"/>
-  <img widht="150px" height="250px" src="https://drive.google.com/file/d/13R1T4yAtBIkbBndJQfowEdBWlrEMn1VO/view?usp=sharing"/>
-  <img widht="150px" height="250px" src="https://drive.google.com/file/d/14b7bGoYgQruizYusC6TLxCzoFNmq2tY6/view?usp=sharing"/>
+  <img widht="150px" height="250px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011700/lm21ql00jud3yjtkq2qf.jpg"/>
+  <img widht="150px" height="250px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011730/the5wietuaqwiuqoxsua.jpg"/>
+  <img widht="150px" height="250px" src="https://res.cloudinary.com/applaporan/image/upload/v1654011752/ckfcoxkka8162wzlzkcu.jpg"/>
 </div>
 
 ## Deskripsi Aplikasi
